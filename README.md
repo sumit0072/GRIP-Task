@@ -9,4 +9,9 @@ In this task we will predict the percentage of marks that a student is expected 
 
 To see the implementation check this link - https://github.com/sumit0072/GRIP-Task/tree/main/Task%201-Supervised%20ML
 
-<center><img scr='https://github.com/sumit0072/GRIP-Task/blob/main/Images/Spark_foundation.jpg' width='150'></center>
+### Task 2 - Prediction using Supervised Machine Learning
+From the given ‘Iris’ dataset, we will predict the optimum number of clusters and represent it visually. 
+
+To see the implementation check this link - https://github.com/sumit0072/GRIP-Task/blob/main/Task%202-Unsupervised%20ML/TSF-Task%20_2.ipynb
+
+<center><img scr='/GRIP-Task/Images/Spark_foundation.jpg' width='150'></center>
