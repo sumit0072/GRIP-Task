@@ -14,4 +14,9 @@ From the given ‘Iris’ dataset, we will predict the optimum number of cluster
 
 To see the implementation check this link - https://github.com/sumit0072/GRIP-Task/blob/main/Task%202-Unsupervised%20ML/TSF-Task%20_2.ipynb
 
+### Task 6 - Prediction using Decision Tree Algorithm
+From the given ‘Iris’ dataset, Create the Decision Tree classifier and visualize it graphically. 
+
+To see the implementation check this link - https://github.com/sumit0072/GRIP-Task/blob/main/Task%206-Decision%20Tree%20Algorithm/TSF-Task_6.ipynb
+
 <center><img scr='/GRIP-Task/Images/Spark_foundation.jpg'></center>
