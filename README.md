@@ -17,6 +17,7 @@ To see the implementation check this link - https://github.com/sumit0072/GRIP-Ta
 ### Task 3 - Exploratory Data Analysis (Retail)
 From the given ‘SampleSuperstore’ dataset, we'll be performing 'exploratory data analysis' on the 'sample superstore' data'. In my analysis, I've tried to find out weak  aeras where the superstore can work to make more profit.
 
+To see the implementation check this link to README.md - https://github.com/sumit0072/GRIP-Task/blob/main/Task%203-Exploratory%20Data%20Analysis%20(Retail)/README.md
 To see the implementation check this link - https://github.com/sumit0072/GRIP-Task/blob/main/Task%206-Decision%20Tree%20Algorithm/TSF-Task_6.ipynb
 
 ### Task 6 - Prediction using Decision Tree Algorithm
